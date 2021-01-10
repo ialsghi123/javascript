@@ -6,4 +6,4 @@ var str='test';
 console.log(str[0],str[1],str[2],str[3]); //출력값 test
 
 str[0]='T';
-console.log(str);
+console.log(str); 
