@@ -9,5 +9,5 @@ foo.name = 'foo';
 foo.age = 30;
 foo.gender = 'male';
 
-console.log(typeof foo) //(출력값) object
+console.log(typeof foo); //(출력값) object
 console.log(foo); //(출력값) {name:'foo', age: 30, gender: 'male}

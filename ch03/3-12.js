@@ -9,3 +9,4 @@ var foo = {
 console.log(foo.toString());
 
 console.dir(foo);
+

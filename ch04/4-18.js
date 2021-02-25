@@ -14,4 +14,4 @@ function parent() {
     child();
 }
 parent();
-child();
+// child();

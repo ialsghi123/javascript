@@ -14,3 +14,5 @@ obj.baz = function () {
     return 200;
 }
 console.log(obj.baz()); //출력값 200
+
+console.log(obj);

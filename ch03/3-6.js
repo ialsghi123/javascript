@@ -10,3 +10,5 @@ var foo = {
 
 console.log(typeof foo);  //(출력값) object
 console.log(foo); //(출력값) {name:'foo', age: 30, gender: 'female'}
+
+
